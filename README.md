@@ -34,3 +34,21 @@ Email matching is exact; case and whitespace normalization are not implemented. 
 ## Screenshots
 
 Add your sanitized screenshots as workflow.png, leads.png and email-alert.png. No screenshots are bundled in this package.
+
+## Screenshots
+
+### Automation Workflow
+Captures leads and routes them to registration or update.
+![Lead Tracker workflow](./workflow.png)
+
+### Email Lookup
+Checks Google Sheets for an existing contact using their email.
+![Email lookup configuration](./email-lookup.png)
+
+### Lead Spreadsheet
+Stores contact details and updates existing records.
+![Lead tracking spreadsheet](./leads.png)
+
+### Email Notification
+Sends an internal notification when a new lead is registered.
+![New lead email notification](./email-alert.png)
