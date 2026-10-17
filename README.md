@@ -33,10 +33,6 @@ Email matching is exact; case and whitespace normalization are not implemented. 
 
 ## Screenshots
 
-Add your sanitized screenshots as workflow.png, leads.png and email-alert.png. No screenshots are bundled in this package.
-
-## Screenshots
-
 ### Automation Workflow
 Captures leads and routes them to registration or update.
 ![Lead Tracker workflow](./workflow.png)
